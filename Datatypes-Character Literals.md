@@ -18,3 +18,4 @@ print(char2)
 ## Output
 <img width="947" height="245" alt="image" src="https://github.com/user-attachments/assets/e71b0ca8-0fa2-413d-a7fa-31940e8aec9d" />
 ## Result
+Thus,the python program that prints the characters 'T' and 'a' using character literals is executed successfully.
