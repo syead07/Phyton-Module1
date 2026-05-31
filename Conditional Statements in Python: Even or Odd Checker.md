@@ -27,4 +27,4 @@ else:
 
 ## Result
 
-Thus the program to check whether the given number is even or odd using if...else statements is done successfully.
+
