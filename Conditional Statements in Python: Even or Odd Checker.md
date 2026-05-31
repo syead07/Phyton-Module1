@@ -24,3 +24,6 @@ else:
 <img width="487" height="383" alt="image" src="https://github.com/user-attachments/assets/661fe207-5254-4132-b45d-977329ac7126" />
 
 ## Result
+
+Thus the program to check whether the given number is even or odd using if...else statements is done successfully.
+
