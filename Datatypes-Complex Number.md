@@ -24,3 +24,4 @@ print(x.imag)
 <img width="891" height="232" alt="image" src="https://github.com/user-attachments/assets/b0248a85-9d56-4e1a-bcc5-d54a02005bb1" />
 
 ## Result
+Thus,the python program to read two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts is executed successfully.
